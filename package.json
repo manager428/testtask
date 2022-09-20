@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./src/bin/www",
+    "start": "node ./src/bin/www",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
